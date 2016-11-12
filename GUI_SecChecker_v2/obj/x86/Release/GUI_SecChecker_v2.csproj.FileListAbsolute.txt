@@ -1,0 +1,13 @@
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\bin\Release\GUI_SecChecker_v2.exe
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\bin\Release\GUI_SecChecker_v2.pdb
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\bin\Release\ClosedXML.dll
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\bin\Release\LumenWorks.Framework.IO.dll
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\bin\Release\ClosedXML.xml
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\obj\x86\Release\GUI_SecChecker_v2.Form1.resources
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\obj\x86\Release\GUI_SecChecker_v2.Properties.Resources.resources
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\obj\x86\Release\GUI_SecChecker_v2.exe
+C:\Users\KartashevVS\Dropbox\Projects\Windows\C#_UB\GUI_SecChecker_v2\GUI_SecChecker_v2\obj\x86\Release\GUI_SecChecker_v2.pdb
