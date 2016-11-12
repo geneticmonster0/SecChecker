@@ -63,6 +63,8 @@
             this.bt_RemoveTrashFromMP = new System.Windows.Forms.Button();
             this.label15 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label4
@@ -379,12 +381,34 @@
             this.label16.TabIndex = 12;
             this.label16.Text = "Указывать через ;";
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(648, 474);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(173, 144);
+            this.button1.TabIndex = 16;
+            this.button1.Text = "Del Duplicate";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.bt_DelDuplicate_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(959, 474);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(173, 144);
+            this.button2.TabIndex = 16;
+            this.button2.Text = "Del Duplicate";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.bt_DelDuplicate_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1219, 882);
             this.Controls.Add(this.bt_ReadSCCMReport);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.bt_DelDuplicate);
             this.Controls.Add(this.bt_BrowseSCCMReport);
             this.Controls.Add(this.bt_ReadSEPReport);
@@ -421,6 +445,7 @@
             this.Controls.Add(this.bt_GetDataAD);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -463,6 +488,8 @@
         private System.Windows.Forms.Button bt_RemoveTrashFromMP;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }
 
